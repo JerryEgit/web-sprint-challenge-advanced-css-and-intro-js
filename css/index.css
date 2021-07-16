@@ -135,8 +135,8 @@ button:hover{
     width:100%;
 }
 
-<meta.name="mobileview" content="width=device-width,initial-scale=1"/>
-@media(max-width:500px) /*added 500px query*/
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+@media(max-width:500px){  /*added 500px query*/
 
 header a {
  margin: 7%;   
@@ -154,3 +154,9 @@ header a {
     align-items: center;
 } /*put imgs and text in a column*/
 
+.artist {
+ width: 75%;
+ display: flex;
+ flex-direction: column;   
+}/* increase artist img size and stack imgs top of text */
+}
