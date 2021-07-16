@@ -33,7 +33,7 @@ its a way to access and store data values that also helps us to label the values
 4. What is the purpose of using functions in code?
 Functions keep our code DRY and can make the code more reuseable so you dont have to type the same line over and over in which saving time
 5. How do you access a key inside of an object inside of an array?
-
+arrayname[index].key
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
