@@ -29,7 +29,9 @@ its how many people reguardless how the access the web are able to see or obtain
  make sure your code is semantic so it can be easily read by search engines or screenreaders  
  manage your colors so you dont give people headaches with too extreme of contrasting colors and so there easy for people with color blindness to see 
 3. How would you explain the concept of a variable to someone new to programming?
+its a way to access and store data values that also helps us to label the values
 4. What is the purpose of using functions in code?
+
 5. How do you access a key inside of an object inside of an array?
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
