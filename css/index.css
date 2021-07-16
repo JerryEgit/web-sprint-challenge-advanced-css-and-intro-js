@@ -140,4 +140,9 @@ button:hover{
 
 header a {
  margin: 7%;   
-}
+} /*added space between achor tags*/
+
+.title-container div{
+    width: 100%;
+    height: 53vh;
+} /* increased title image to fit screen width*/
