@@ -31,7 +31,7 @@ its how many people reguardless how the access the web are able to see or obtain
 3. How would you explain the concept of a variable to someone new to programming?
 its a way to access and store data values that also helps us to label the values
 4. What is the purpose of using functions in code?
-
+Functions keep our code DRY and can make the code more reuseable so you dont have to type the same line over and over in which saving time
 5. How do you access a key inside of an object inside of an array?
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
