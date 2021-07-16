@@ -138,3 +138,6 @@ button:hover{
 <meta.name="mobileview" content="width=device-width,initial-scale=1"/>
 @media(max-width:500px) /*added 500px query*/
 
+header a {
+ margin: 7%;   
+}
