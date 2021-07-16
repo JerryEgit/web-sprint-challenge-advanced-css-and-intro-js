@@ -134,3 +134,7 @@ button:hover{
 .artist img{
     width:100%;
 }
+
+<meta.name="mobileview" content="width=device-width,initial-scale=1"/>
+@media(max-width:500px) /*added 500px query*/
+
